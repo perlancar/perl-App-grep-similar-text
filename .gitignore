@@ -1,0 +1,5 @@
+App-grep-similar-text-*
+.build
+*~
+nytprof*
+.DS_Store
